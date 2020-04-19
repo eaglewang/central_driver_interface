@@ -1,4 +1,4 @@
-central_driver_interface
+NR5G in SmallCell
 ========================
 
-This is a project for universal interface layer between Linux user space and kernel space for the DDC control system.
+This is a project for introduction NR5G technology application in SmallCell products.
